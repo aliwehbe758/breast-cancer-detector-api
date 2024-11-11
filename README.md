@@ -12,7 +12,7 @@
                 Create new database 'breast-cancer-detector'
             </li>
             <li>
-                Right click on the database, click on restore, select 'app.backup' from the project, then click on 'Restore'
+                Right click on the database, click on restore, select 'database.backup' file from the project, then click on 'Restore'
             </li>
         </ul>
     </li>
